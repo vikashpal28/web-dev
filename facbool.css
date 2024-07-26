@@ -1,0 +1,65 @@
+h1{
+    color: #4B70F5;
+    font-weight: bold;
+    font-size: 60px;
+    position: relative;
+    top: 200px;
+    left: 150px;
+}
+h5{
+    color: black;
+    position: absolute;
+    top: 280px;
+    left: 160px;
+    font-size: 20px;
+    
+}
+.facebook{
+    height: 410px;
+    width: 315px;
+    border:2px solid gray;
+    position: relative;
+    top: -50px;
+    right: -700px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.fg :hover{
+    text-decoration: underline;
+}
+.body{
+    background-color: whitesmoke;
+}
+p{
+    position: relative;
+    left: 700px;
+    top: -50px;
+}
+.language{
+    position: relative; 
+    left: 100px;
+    /* margin: 10px; */
+    text-decoration: none;
+    height: 200px;
+    width: 500px;
+    color: grey;
+    top: 70px;
+}
+.footer{
+    position: relative;
+    margin: 10px;
+    text-decoration: none;
+    padding: 5%;
+    height: 100px;
+    width: 100px;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+    margin: 7px;
+    color: gray;
+    font-size: 14px;
+}
