@@ -1,0 +1,68 @@
+#top{
+    color: rgb(35, 9, 9);
+    background-color: aquamarine;
+width: 100%;
+position: relative;
+height: 50px;
+margin-top: 0%;
+margin-left: 0%;
+font-weight: bold;
+text-align: center;
+font-size: 45px;
+background-image: url("ambul1.jpeg");
+background-size: contain;
+}
+ .track{   
+    height: 410px;
+    width: 315px;
+    border:2px solid gray;
+    position: relative;
+    top: 100px;
+    right: -480px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #FB773C;
+    border-color:#03346E ;
+ }
+ .image{
+    height: 700px;
+background-image: url("Ambulance.jpg");
+background-size: cover;
+
+ }
+ .hd{
+    height: 30px;
+    background-color: #071113;
+    color: #FFA823;
+ }
+.hd1{
+    height: 550px;
+    color: #03346E;
+    background-color: #697565;
+    font-size: 20px;
+}
+#navbar{
+    background-color: #3C3D37;
+height: 80px;
+color: greenyellow;
+}
+.logo{
+    position: relative;
+    justify-content: space-between;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+     margin: 70px;
+}
+#nm{
+    height: 70px;
+    width: 120px;
+}
+#feet{
+    font-size: 20px;
+    background-color: #F7EFE5;
+    text-align: center;
+}
